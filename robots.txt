@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Point to the sitemap for easier crawling
-Sitemap: https://hobbietangente.vercel.app/sitemap.xml
+Sitemap: https://hobbietangente.vercel.app/mysitemap.xml
